@@ -3,7 +3,7 @@
 //  C++L13P13
 //
 //  Created by Tadeusz Potoniec on 25/01/2023.
-//  Based on https://www.youtube.com/watch?v=ErOzmh3BiXU&list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo and with help chat.openai
+//  Based on https://www.youtube.com/watch?v=ErOzmh3BiXU&list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo
 
 #include <iostream>
 
